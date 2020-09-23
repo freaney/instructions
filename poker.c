@@ -42,6 +42,7 @@ void printCard(Card c) {
 		s = "Spades";
 	}
 	printf(" (%d,%s) ",c->rank,s);
+	printf("AHHHHHHH");
 	fflush(stdout);
 }
 
